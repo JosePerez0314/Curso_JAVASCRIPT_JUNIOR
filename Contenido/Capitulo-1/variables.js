@@ -1,4 +1,6 @@
-/* ¿Que es un variable? */
+// Las variables
+
+// ¿Que es una variable?
 
 /* Una variable es un lugar donde podemos almacenar informacion del programa */
 
