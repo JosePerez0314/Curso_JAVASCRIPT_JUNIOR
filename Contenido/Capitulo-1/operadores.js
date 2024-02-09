@@ -6,6 +6,8 @@
 
 x = y; // Asignación
 
+//Es igual
+
 x += y; //Asignación de adicción 
 
 x -= y; //Asignación de sustracción
