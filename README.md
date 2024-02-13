@@ -10,6 +10,6 @@
 
 ## Creador
 
-- **Nombre:** [José Pérez]
-- **Correo Electrónico:** [josegabrielperezcalcano14@gmail.com]
+- **Nombre:** José Pérez
+- **Correo Electrónico:** josegabrielperezcalcano14@gmail.com
 
